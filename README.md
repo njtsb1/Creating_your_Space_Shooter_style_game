@@ -6,7 +6,7 @@ Project developed at Digital Innovation One's Bootcamp JavaScript Game Developer
 Learning to work with CSS positioning and programming logic, DOM manipulation, eventListeners and Array manipulation. 
 Technologies used: HTML5, CSS3 and JavaScript.
 
-![space_shooter](https://user-images.githubusercontent.com/95108889/161843793-5a44f10b-7775-4cdf-b120-6a1c2cf93f5e.png)
+[![space_shooter](https://user-images.githubusercontent.com/95108889/161843793-5a44f10b-7775-4cdf-b120-6a1c2cf93f5e.png)](https://njtsb1.github.io/Creating_your_Space_Shooter_style_game/)
 
 This project is under the [MIT](./LICENSE) license.
 
